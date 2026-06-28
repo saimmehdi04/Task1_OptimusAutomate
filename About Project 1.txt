@@ -1,0 +1,37 @@
+📊 Project 2 Completed: Exploratory Data Analysis (EDA) Report 🚀
+
+Excited to share that I have successfully completed my second Data Analytics project as part of my learning journey!
+
+In this project, I performed Exploratory Data Analysis (EDA) on an e-commerce dataset to uncover meaningful insights, identify trends, and understand customer purchasing behavior.
+
+🔍 Key Tasks Performed:
+
+✅ Data Quality Check (Missing Values, Duplicates, Invalid Dates)
+✅ Descriptive Statistics (Mean, Median, Count, Min, Max)
+✅ Product Performance Analysis
+✅ Revenue Analysis by Product Category
+✅ Order Status Analysis
+✅ Payment Method Analysis
+✅ Trend Analysis by Year
+✅ Key Business Insights & Observations
+
+📈 Key Findings:
+
+• Average order value: $1,053.97
+• Customers purchase approximately 3 items per order on average
+• Printers, Chairs, and Laptops generated the highest revenue
+• Online payments were the most preferred payment method
+• Revenue showed a slight decline from 2023 to 2025
+• High cancellation and return rates indicate areas for business improvement
+
+🛠️ Tools & Skills Used:
+
+📌 Microsoft Excel
+📌 Data Cleaning
+📌 Exploratory Data Analysis (EDA)
+📌 Descriptive Statistics
+📌 Trend Analysis
+📌 Business Intelligence
+📌 Analytical Thinking
+
+This project strengthened my ability to transform raw data into actionable insights and make data-driven recommendations.
